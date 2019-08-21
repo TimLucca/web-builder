@@ -260,4 +260,9 @@ Another usefull example of this could be to have several HTML files in your incl
 ### Tag replacement in CSS files
 
 If you have already imported your images into Site Manager using the Media Loader, you can use the `replacements.json` file that the media loader provides to replace all the references in your CSS files. Simply place the `replacements.json` file at the root of your project and your style.css will have its image references replaced with t4 tags. You can continue to use the style-local.css file for local development.
+
+# In-Progress
+
+Bower is depricated, so we will be moving away from it. In addition to the initial setup, you must also `npm i yarn -g` and then run `yarn` 
+
 =======
