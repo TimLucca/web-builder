@@ -1,6 +1,6 @@
 # Depricated Packages
 
-npm WARN deprecated **bower@1.8.8**: We don't recommend using Bower for new projects. Please consider Yarn and Webpack or Parcel. You can read how to migrate legacy project here: https://bower.io/blog/2017/how-to-migrate-away-from-bower/
+ **DONE** npm WARN deprecated **bower@1.8.8**: We don't recommend using Bower for new projects. Please consider Yarn and Webpack or Parcel. You can read how to migrate legacy project here: https://bower.io/blog/2017/how-to-migrate-away-from-bower/
 
 npm WARN deprecated **connect@2.30.2:** connect 2.x series is deprecated.
 
