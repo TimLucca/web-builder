@@ -31,3 +31,15 @@ npm WARN @0.1.0 No license field.
 found 103 vulnerabilities (27 low, 25 moderate, 50 high, 1 critical)
 
 run `npm audit fix` to fix them, or `npm audit` for details 
+
+# Yarn Issues
+
+- warning: No license field
+- warning: remove package-lock.json
+- warning: grunt-svg-sprite@1.5.0 has incorrect peer dependency "grunt@>=1.0.1"
+    - weird because grunt-svg-sprite is listed in the package.json as v1.3.6
+
+# When Running `grunt`
+
+- DepricationWarning: os.tmpDir() is depricated. Use os.tmpdir()
+
